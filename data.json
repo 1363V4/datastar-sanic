@@ -1,0 +1,197 @@
+{
+    "powers": {
+        "1": {
+            "id": "agile",
+            "name": {
+                "fr": "L'Agile",
+                "en": "The Agile"
+            },
+            "desc": {
+                "fr": "Peut esquiver n'importe quel effet (deux fois).",
+                "en": "Can dodge any effect (twice)."
+            },
+            "tpm": false
+        },
+        "2": {
+            "id": "baby",
+            "name": {
+                "fr": "Le Baby",
+                "en": "The Baby"
+            },
+            "desc": {
+                "fr": "Aucun pouvoir, mais s'il gagne, tout le monde doit lui faire un bisou.",
+                "en": "No power, but if he wins, everyone must give him a kiss."
+            },
+            "tpm": true
+        },
+        "3": {
+            "id": "bomber",
+            "name": {
+                "fr": "Bomber Man",
+                "en": "Bomber Man"
+            },
+            "desc": {
+                "fr": "Lorsqu'un autre joueur pose une carte chiffre sur le meme chiffre, il pioche (permanent).",
+                "en": "When another player plays a number card on the same number, he draws (permanent)."
+            },
+            "tpm": true
+        },
+        "4": {
+            "id": "chimiste",
+            "name": {
+                "fr": "Le Chimiste Fou",
+                "en": "The Mad Chemist"
+            },
+            "desc": {
+                "fr": "Quand un joueur fait uno, il doit gagner un chi-fu-mi contre le chimiste fou et pioche deux cartes s'il perd (permanent).",
+                "en": "When a player says uno, he must win a rock-paper-scissors against the mad chemist and draws two cards if he loses (permanent)."
+            },
+            "tpm": true
+        },
+        "5": {
+            "id": "dalton",
+            "name": {
+                "fr": "Le Dalton",
+                "en": "The Dalton"
+            },
+            "desc": {
+                "fr": "Quand il pioche, le joueur peut consulter les 4 premieres cartes et prendre celle de son choix (permanent).",
+                "en": "When drawing, the player can view the first 4 cards and take the one of their choice (permanent)."
+            },
+            "tpm": true
+        },
+        "6": {
+            "id": "drunk",
+            "name": {
+                "fr": "Le Bourre",
+                "en": "The Drunk"
+            },
+            "desc": {
+                "fr": "Il peut jouer n'importe quoi sur n'importe quoi mais les cartes '+' lui reviennent dans la tete.",
+                "en": "He can play anything on anything, but '+' cards come back to him."
+            },
+            "tpm": true
+        },
+        "7": {
+            "id": "fossoyeur",
+            "name": {
+                "fr": "Le Fossoyeur",
+                "en": "The Gravedigger"
+            },
+            "desc": {
+                "fr": "Peut echanger les cartes de sa main contre autant de dernieres cartes du cimetiere.",
+                "en": "Can exchange the cards in his hand for as many last cards from the discard pile."
+            },
+            "tpm": false
+        },
+        "8": {
+            "id": "muscle",
+            "name": {
+                "fr": "Le Muscle",
+                "en": "The Muscle"
+            },
+            "desc": {
+                "fr": "Peut doubler la valeur d'un effet (activable deux fois).",
+                "en": "Can double the value of an effect (activatable twice)."
+            },
+            "tpm": false
+        },
+        "9": {
+            "id": "pilote",
+            "name": {
+                "fr": "Le Pilote",
+                "en": "The Pilot"
+            },
+            "desc": {
+                "fr": "A la fin du jeu, il peut essayer de doubler le gagnant en posant toutes ses cartes. S'il y parvient, il remporte la partie.",
+                "en": "At the end of the game, he can try to double the winner by playing all his cards. If he succeeds, he wins the game."
+            },
+            "tpm": false
+        },
+        "10": {
+            "id": "promoteur",
+            "name": {
+                "fr": "Le Promoteur",
+                "en": "The Promoter"
+            },
+            "desc": {
+                "fr": "Peut transformer une carte chiffre en carte de pioche.",
+                "en": "Can transform a number card into a draw card."
+            },
+            "tpm": false
+        },
+        "11": {
+            "id": "roi",
+            "name": {
+                "fr": "Le Roi",
+                "en": "The King"
+            },
+            "desc": {
+                "fr": "Peut interrompre le jeu pour poser une carte.",
+                "en": "Can interrupt the game to play a card."
+            },
+            "tpm": false
+        },
+        "12": {
+            "id": "shotgun",
+            "name": {
+                "fr": "Le Shotgun",
+                "en": "The Shotgun"
+            },
+            "desc": {
+                "fr": "Peut jouer deux cartes a la suite (deux fois).",
+                "en": "Can play two cards in a row (twice)."
+            },
+            "tpm": false
+        },
+        "13": {
+            "id": "sonic",
+            "name": {
+                "fr": "Sonic",
+                "en": "Sonic"
+            },
+            "desc": {
+                "fr": "Devient le centre de l'attention et joue entre les tours (desactivable).",
+                "en": "Becomes the center of attention and plays between turns (deactivatable)."
+            },
+            "tpm": false
+        },
+        "14": {
+            "id": "switcher",
+            "name": {
+                "fr": "Le Switcher",
+                "en": "The Switcher"
+            },
+            "desc": {
+                "fr": "Peut echanger sa main avec celle d'un autre joueur.",
+                "en": "Can swap his hand with another player's."
+            },
+            "tpm": false
+        },
+        "15": {
+            "id": "tricheur",
+            "name": {
+                "fr": "Le Tricheur",
+                "en": "The Cheater"
+            },
+            "desc": {
+                "fr": "Gagne lorsqu'il n'a qu'une carte mais doit Uno a deux cartes.",
+                "en": "Wins when he has only one card but must Uno with two cards."
+            },
+            "tpm": true
+        },
+        "16": {
+            "id": "voyante",
+            "name": {
+                "fr": "La Voyante",
+                "en": "The Seer"
+            },
+            "desc": {
+                "fr": "Tout le monde joue a decouvert sauf elle.",
+                "en": "Everyone plays face up except her."
+            },
+            "tpm": true
+        }
+    },
+    "rooms": {}
+}

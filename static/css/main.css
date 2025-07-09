@@ -1,0 +1,91 @@
+@import url('gold.css');
+
+:root {
+    --primary: #811313;
+    --secondary: #195a22;
+    --text: #beb645;
+    --bg-primary: #1a458a;
+    --bg-secondary: #010a03;
+    --bg-2: hsl(from var(--bg-secondary) h s 60);
+    --bg-3: hsl(from var(--bg-secondary) h s 70);
+}
+
+@font-face {
+    font-family: "slkscr";
+    src: url("/static/fonts/slkscr.ttf");
+}
+
+html {
+    font-family: "slkscr", sans-serif;
+    color: var(--text);
+}
+
+body {
+    display: grid;
+    background: var(--bg-secondary);
+    width: 100svw;
+    height: 100svh;
+}
+
+main {
+    place-self: center;
+    max-width: 20rem;
+    gap: .2rem
+}
+
+::view-transition-old(root) {
+    animation: rotateY-out 2s linear forwards;
+}
+
+::view-transition-new(root) {
+    animation: rotateY-in 2s linear forwards;
+}
+
+@keyframes rotateY-out {
+    from {
+        transform: rotateY(0deg);
+        opacity: 1;
+    }
+    to {
+        transform: rotateY(90deg);
+        opacity: 0;
+    }
+}
+
+@keyframes rotateY-in {
+    from {
+        transform: rotateY(-90deg);
+        opacity: 0;
+    }
+    to {
+        transform: rotateY(0deg);
+        opacity: 1;
+    }
+}
+
+#cover {
+    width: 20rem;
+    height: 20rem;
+    place-self: center;
+}
+
+button, .button {
+    background: var(--bg-primary);
+    border-radius: var(--m);
+    padding-inline: var(--s);
+    cursor: pointer;
+    &:hover {
+        background: var(--primary)
+    }
+}
+
+h2 {
+    color: var(--primary);
+}
+
+span {
+    border-radius: 50%;
+    background: var(--secondary);
+    width: 1rem;
+    height: 1rem;
+}
