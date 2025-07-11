@@ -34,11 +34,11 @@ main {
 }
 
 ::view-transition-old(root) {
-    animation: rotateY-out 2s linear forwards;
+    animation: rotateY-out .5s linear forwards;
 }
 
 ::view-transition-new(root) {
-    animation: rotateY-in 2s linear forwards;
+    animation: rotateY-in .5s linear forwards;
 }
 
 @keyframes rotateY-out {
@@ -81,6 +81,7 @@ button, .button {
 
 h2 {
     color: var(--primary);
+    font-size: 162%;
 }
 
 span {

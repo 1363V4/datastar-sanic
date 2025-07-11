@@ -1,20 +1,36 @@
 from sanic import Sanic, html
+from sanic.log import logger, LOGGING_CONFIG_DEFAULTS
 
 from datastar_py import ServerSentEventGenerator as SSE
 from datastar_py.sanic import datastar_respond, DatastarResponse
 
 from tinydb import TinyDB, where
 
+import re
 import time
 import uuid
 import asyncio
 from collections import defaultdict
 from random import choice
 from datetime import datetime, timedelta
+from pprint import pprint
 
 
-app = Sanic(__name__)
+LOGGING_CONFIG_DEFAULTS['formatters']['simple'] = {
+    'format': '%(asctime)s - (%(name)s)[%(levelname)s]: %(message)s',
+    'datefmt': '%Y-%m-%d %H:%M:%S'
+}
+LOGGING_CONFIG_DEFAULTS['handlers']['perso'] = {
+    'class': 'logging.FileHandler',
+    'formatter': 'simple',
+    'filename': "/home/le/crazystar/perso.log"
+}
+LOGGING_CONFIG_DEFAULTS['loggers']['sanic.root']['handlers'] = ['perso']
+
+app = Sanic(__name__, log_config=LOGGING_CONFIG_DEFAULTS)
 app.static('/static', './static')
+
+logger.info("App started")
 
 async def cleanup_old_rooms():
     while True:
@@ -80,7 +96,7 @@ async def attach_db(app):
     rooms = db.table('rooms')
     app.ctx.rooms = rooms
     app.ctx.powers = powers
-    app.ctx.connections = {'index': defaultdict(asyncio.Queue)} # plus 1 for each room
+    app.ctx.connections = defaultdict(lambda: defaultdict(asyncio.Queue))
 
 
 @app.on_response
@@ -99,7 +115,7 @@ async def index(request):
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>sanic</title>
+    <title>crazystar</title>
     <link rel="icon" href="/static/img/unknown.png">
     <link rel="stylesheet" href="/static/css/main.css">
     <script type="module" src="/static/js/datastar.js"></script>
@@ -128,6 +144,8 @@ async def index_cqrs(request):
 async def create(request):
     signals = request.json
     if name := signals.get('room_name'):
+        if not re.match(r'^[a-zA-Z]{1,10}$', name) and name != "room":
+            return DatastarResponse(SSE.execute_script("alert('no funny names!!1')"))
         user_id = request.cookies.get("user_id")
         app.ctx.rooms.insert({
             'name': name,
@@ -135,16 +153,16 @@ async def create(request):
             'admin': user_id,
             'players': {user_id: 'unknown'}
         })
+        logger.info(f"Room created: {name}")
         for user_id in app.ctx.connections['index']:
             await app.ctx.connections['index'][user_id].put('new room')
-        app.ctx.connections[name] = defaultdict(asyncio.Queue)
     return DatastarResponse()
 
 @app.post("/loc/<loc>")
 async def set_loc(request, loc):
     response = await datastar_respond(request)
     response.add_cookie('loc', loc)
-    return response.eof()
+    return await response.eof()
 
 @app.get("/room/<room_name>")
 async def room(request, room_name):
@@ -154,7 +172,7 @@ async def room(request, room_name):
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>sanic</title>
+    <title>crazystar</title>
     <link rel="icon" href="/static/img/unknown.png">
     <link rel="stylesheet" href="/static/css/main.css">
     <script type="module" src="/static/js/datastar.js"></script>
