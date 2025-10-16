@@ -11,7 +11,7 @@ import time
 import uuid
 import asyncio
 from collections import defaultdict
-from random import choice
+from random import shuffle
 from datetime import datetime, timedelta
 from pprint import pprint
 
@@ -28,6 +28,8 @@ LOGGING_CONFIG_DEFAULTS['handlers']['perso'] = {
 LOGGING_CONFIG_DEFAULTS['loggers']['sanic.root']['handlers'] = ['perso']
 
 app = Sanic(__name__, log_config=LOGGING_CONFIG_DEFAULTS)
+app.update_config({'RESPONSE_TIMEOUT': 60*30})
+
 app.static('/static', './static')
 
 logger.info("App started")
@@ -80,7 +82,7 @@ async def room_view(room_name, power, admin, loc):
         power_data = app.ctx.powers.search(where('id') == power)[0]
         return f'''
 <main id="main" class="gc">
-    <h2 class="gt l">{power_data['name'][loc]}</h2>
+    <h2 class="gt xl">{power_data['name'][loc]}</h2>
     <img id="cover" src="/static/img/{power}.jpg">
     <p>{power_data['desc'][loc]}
     {"<span>O</span>" if power_data['tpm'] else ""}</p>
@@ -209,9 +211,13 @@ async def room_cqrs(request, room_name):
 async def reveal(request, room_name):
     room = app.ctx.rooms.get(where("name") == room_name)
     players = room['players']
+    powers = app.ctx.powers.all()
+    if len(players) > len(powers):
+        return DatastarResponse()
+    shuffle(powers)
     _players = {}
     for player in players:
-        _players[player] = choice(app.ctx.powers.all())['id']
+        _players[player] = powers.pop()['id']
     app.ctx.rooms.update({'players': _players}, where("name") == room_name)
     for user_id in app.ctx.connections[room_name]:
         await app.ctx.connections[room_name][user_id].put('new power')

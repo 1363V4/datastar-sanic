@@ -193,14 +193,5 @@
             "tpm": true
         }
     },
-    "rooms": {
-        "1": {
-            "name": "update",
-            "time": "Fri Jul 11 12:39:47 2025",
-            "admin": "ad18847c68124a2cb725970253db62e4",
-            "players": {
-                "ad18847c68124a2cb725970253db62e4": "chimiste"
-            }
-        }
-    }
+    "rooms": {}
 }

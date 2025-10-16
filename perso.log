@@ -17,3 +17,257 @@
 2025-07-11 12:34:19 - (sanic.root)[INFO]: App started
 2025-07-11 12:39:03 - (sanic.root)[INFO]: App started
 2025-07-11 12:39:47 - (sanic.root)[INFO]: Room created: update
+2025-07-11 12:48:58 - (sanic.root)[INFO]: Room created: max
+2025-07-11 12:49:16 - (sanic.root)[ERROR]: The error response will not be sent to the client for the following exception:"'616f4354e0b24dd2b44bbb21fb485b79'". A previous response has at least partially been sent.
+2025-07-11 12:51:00 - (sanic.root)[ERROR]: The error response will not be sent to the client for the following exception:"'c0d72f9f790d4aa3a17be8304c5b70f7'". A previous response has at least partially been sent.
+2025-07-11 12:52:33 - (sanic.root)[INFO]: App started
+2025-07-11 21:25:46 - (sanic.root)[INFO]: Room created: cro
+2025-07-12 10:24:58 - (sanic.root)[INFO]: Room created: test
+2025-07-12 10:25:00 - (sanic.root)[ERROR]: The error response will not be sent to the client for the following exception:"'7ed4736461b6452da9e69d82668d10fe'". A previous response has at least partially been sent.
+2025-07-12 17:08:49 - (sanic.root)[ERROR]: The error response will not be sent to the client for the following exception:"'cd1195e7c2544a29a6488d44ca727deb'". A previous response has at least partially been sent.
+2025-07-13 10:16:13 - (sanic.root)[ERROR]: The error response will not be sent to the client for the following exception:"'d8f6f0ea29654f29aef7a7b075fff778'". A previous response has at least partially been sent.
+2025-07-13 18:58:52 - (sanic.root)[INFO]: Room created: sfsdfsdfs
+2025-07-13 18:59:41 - (sanic.root)[ERROR]: The error response will not be sent to the client for the following exception:"'3d81772d74ac4556891db6fcbcd90e7e'". A previous response has at least partially been sent.
+2025-07-13 22:31:29 - (sanic.root)[INFO]: Room created: glou
+2025-07-14 11:27:46 - (sanic.root)[INFO]: Room created: Test
+2025-07-14 11:27:48 - (sanic.root)[ERROR]: The error response will not be sent to the client for the following exception:"'d80f8033c16e4304a9775808afab677d'". A previous response has at least partially been sent.
+2025-07-14 11:32:51 - (sanic.root)[INFO]: App started
+2025-07-14 11:32:51 - (sanic.root)[INFO]: Sanic v25.3.0
+2025-07-14 11:32:51 - (sanic.root)[INFO]: Goin' Fast @ /home/le/crazystar/crazystar.sock http://...
+2025-07-14 11:32:51 - (sanic.root)[INFO]: app: app
+2025-07-14 11:32:51 - (sanic.root)[INFO]: mode: production, single worker
+2025-07-14 11:32:51 - (sanic.root)[INFO]: server: sanic, HTTP/1.1
+2025-07-14 11:32:51 - (sanic.root)[INFO]: python: 3.12.11
+2025-07-14 11:32:51 - (sanic.root)[INFO]: platform: Linux-6.1.0-37-cloud-amd64-x86_64-with-glibc2.36
+2025-07-14 11:32:51 - (sanic.root)[INFO]: auto-reload: enabled
+2025-07-14 11:32:51 - (sanic.root)[INFO]: packages: sanic-routing==23.12.0
+2025-07-14 11:32:57 - (sanic.root)[INFO]: App started
+2025-07-14 11:32:57 - (sanic.root)[INFO]: App started
+2025-07-14 11:33:12 - (sanic.root)[INFO]: App started
+2025-07-14 11:33:36 - (sanic.root)[INFO]: Room created: big
+2025-07-14 11:34:06 - (sanic.root)[ERROR]: The error response will not be sent to the client for the following exception:"'d80f8033c16e4304a9775808afab677d'". A previous response has at least partially been sent.
+2025-07-15 17:22:51 - (sanic.root)[INFO]: App started
+2025-07-15 17:22:51 - (sanic.root)[INFO]: Sanic v25.3.0
+2025-07-15 17:22:51 - (sanic.root)[INFO]: Goin' Fast @ /home/le/crazystar/crazystar.sock http://...
+2025-07-15 17:22:51 - (sanic.root)[INFO]: app: app
+2025-07-15 17:22:51 - (sanic.root)[INFO]: mode: production, single worker
+2025-07-15 17:22:51 - (sanic.root)[INFO]: server: sanic, HTTP/1.1
+2025-07-15 17:22:51 - (sanic.root)[INFO]: python: 3.12.11
+2025-07-15 17:22:51 - (sanic.root)[INFO]: platform: Linux-6.1.0-37-cloud-amd64-x86_64-with-glibc2.36
+2025-07-15 17:22:51 - (sanic.root)[INFO]: auto-reload: enabled
+2025-07-15 17:22:51 - (sanic.root)[INFO]: packages: sanic-routing==23.12.0
+2025-07-15 17:22:59 - (sanic.root)[INFO]: App started
+2025-07-15 17:22:59 - (sanic.root)[INFO]: App started
+2025-07-15 17:44:27 - (sanic.root)[INFO]: App started
+2025-07-15 17:44:27 - (sanic.root)[INFO]: Sanic v25.3.0
+2025-07-15 17:44:27 - (sanic.root)[INFO]: Goin' Fast @ /home/le/crazystar/crazystar.sock http://...
+2025-07-15 17:44:27 - (sanic.root)[INFO]: app: app
+2025-07-15 17:44:27 - (sanic.root)[INFO]: mode: production, single worker
+2025-07-15 17:44:27 - (sanic.root)[INFO]: server: sanic, HTTP/1.1
+2025-07-15 17:44:27 - (sanic.root)[INFO]: python: 3.12.11
+2025-07-15 17:44:27 - (sanic.root)[INFO]: platform: Linux-6.1.0-37-cloud-amd64-x86_64-with-glibc2.36
+2025-07-15 17:44:27 - (sanic.root)[INFO]: auto-reload: enabled
+2025-07-15 17:44:27 - (sanic.root)[INFO]: packages: sanic-routing==23.12.0
+2025-07-15 17:44:34 - (sanic.root)[INFO]: App started
+2025-07-15 17:44:34 - (sanic.root)[INFO]: App started
+2025-07-15 17:51:09 - (sanic.root)[INFO]: App started
+2025-07-15 17:51:09 - (sanic.root)[INFO]: Sanic v25.3.0
+2025-07-15 17:51:09 - (sanic.root)[INFO]: Goin' Fast @ /home/le/crazystar/crazystar.sock http://...
+2025-07-15 17:51:09 - (sanic.root)[INFO]: app: app
+2025-07-15 17:51:09 - (sanic.root)[INFO]: mode: production, single worker
+2025-07-15 17:51:09 - (sanic.root)[INFO]: server: sanic, HTTP/1.1
+2025-07-15 17:51:09 - (sanic.root)[INFO]: python: 3.12.11
+2025-07-15 17:51:09 - (sanic.root)[INFO]: platform: Linux-6.1.0-37-cloud-amd64-x86_64-with-glibc2.36
+2025-07-15 17:51:09 - (sanic.root)[INFO]: auto-reload: enabled
+2025-07-15 17:51:09 - (sanic.root)[INFO]: packages: sanic-routing==23.12.0
+2025-07-15 17:51:16 - (sanic.root)[INFO]: App started
+2025-07-15 17:51:16 - (sanic.root)[INFO]: App started
+2025-07-16 14:19:42 - (sanic.root)[INFO]: Room created: test
+2025-07-16 14:20:13 - (sanic.root)[ERROR]: The error response will not be sent to the client for the following exception:"'b0d4b210cf5048d0a23adbdaf9921335'". A previous response has at least partially been sent.
+2025-07-16 14:20:14 - (sanic.root)[ERROR]: The error response will not be sent to the client for the following exception:"'b0d4b210cf5048d0a23adbdaf9921335'". A previous response has at least partially been sent.
+2025-07-17 04:50:54 - (sanic.root)[INFO]: Room created: a
+2025-07-17 11:00:31 - (sanic.root)[INFO]: Room created: fff
+2025-07-18 09:45:12 - (sanic.root)[INFO]: Room created: wwww
+2025-07-18 21:59:12 - (sanic.root)[INFO]: Room created: Martin
+2025-07-19 00:10:39 - (sanic.root)[ERROR]: The error response will not be sent to the client for the following exception:"'edce08fb6e7b4f8680f180945e42f6bd'". A previous response has at least partially been sent.
+2025-07-22 08:55:07 - (sanic.root)[INFO]: Room created: test
+2025-07-22 22:35:18 - (sanic.root)[INFO]: Room created: Dima
+2025-07-22 22:35:22 - (sanic.root)[ERROR]: The error response will not be sent to the client for the following exception:"'ec09704c8cdc4390855e53ce7900d43b'". A previous response has at least partially been sent.
+2025-07-23 09:44:04 - (sanic.root)[INFO]: Room created: sanic
+2025-07-23 15:23:34 - (sanic.root)[INFO]: App started
+2025-07-23 15:29:04 - (sanic.root)[INFO]: App started
+2025-07-23 15:29:19 - (sanic.root)[ERROR]: The error response will not be sent to the client for the following exception:"'NoneType' object has no attribute 'is_closing'". A previous response has at least partially been sent.
+2025-07-23 17:02:59 - (sanic.root)[INFO]: App started
+2025-07-23 17:02:59 - (sanic.root)[INFO]: Sanic v25.3.0
+2025-07-23 17:02:59 - (sanic.root)[INFO]: Goin' Fast @ /home/le/crazystar/crazystar.sock http://...
+2025-07-23 17:02:59 - (sanic.root)[INFO]: app: app
+2025-07-23 17:02:59 - (sanic.root)[INFO]: mode: production, single worker
+2025-07-23 17:02:59 - (sanic.root)[INFO]: server: sanic, HTTP/1.1
+2025-07-23 17:02:59 - (sanic.root)[INFO]: python: 3.12.11
+2025-07-23 17:02:59 - (sanic.root)[INFO]: platform: Linux-6.1.0-37-cloud-amd64-x86_64-with-glibc2.36
+2025-07-23 17:02:59 - (sanic.root)[INFO]: auto-reload: enabled
+2025-07-23 17:02:59 - (sanic.root)[INFO]: packages: sanic-routing==23.12.0
+2025-07-23 17:03:07 - (sanic.root)[INFO]: App started
+2025-07-23 17:03:07 - (sanic.root)[INFO]: App started
+2025-07-23 17:19:17 - (sanic.root)[INFO]: App started
+2025-07-23 17:21:24 - (sanic.root)[INFO]: App started
+2025-07-29 13:26:10 - (sanic.root)[INFO]: Room created: xfdadfa
+2025-08-03 21:22:15 - (sanic.root)[INFO]: Room created: Test
+2025-08-04 18:06:18 - (sanic.root)[INFO]: Received signal SIGTERM. Shutting down.
+2025-08-04 18:06:18 - (sanic.root)[INFO]: Server Stopped
+2025-08-04 18:06:34 - (sanic.root)[INFO]: App started
+2025-08-04 18:06:34 - (sanic.root)[INFO]: Sanic v25.3.0
+2025-08-04 18:06:34 - (sanic.root)[INFO]: Goin' Fast @ /home/le/crazystar/crazystar.sock http://...
+2025-08-04 18:06:34 - (sanic.root)[INFO]: app: app
+2025-08-04 18:06:34 - (sanic.root)[INFO]: mode: production, single worker
+2025-08-04 18:06:34 - (sanic.root)[INFO]: server: sanic, HTTP/1.1
+2025-08-04 18:06:34 - (sanic.root)[INFO]: python: 3.12.11
+2025-08-04 18:06:34 - (sanic.root)[INFO]: platform: Linux-6.1.0-37-cloud-amd64-x86_64-with-glibc2.36
+2025-08-04 18:06:34 - (sanic.root)[INFO]: auto-reload: enabled
+2025-08-04 18:06:34 - (sanic.root)[INFO]: packages: sanic-routing==23.12.0
+2025-08-04 18:06:43 - (sanic.root)[INFO]: App started
+2025-08-04 18:06:43 - (sanic.root)[INFO]: App started
+2025-08-04 18:38:07 - (sanic.root)[INFO]: App started
+2025-08-04 18:38:07 - (sanic.root)[INFO]: Sanic v25.3.0
+2025-08-04 18:38:07 - (sanic.root)[INFO]: Goin' Fast @ /home/le/crazystar/crazystar.sock http://...
+2025-08-04 18:38:07 - (sanic.root)[INFO]: app: app
+2025-08-04 18:38:07 - (sanic.root)[INFO]: mode: production, single worker
+2025-08-04 18:38:07 - (sanic.root)[INFO]: server: sanic, HTTP/1.1
+2025-08-04 18:38:07 - (sanic.root)[INFO]: python: 3.12.11
+2025-08-04 18:38:07 - (sanic.root)[INFO]: platform: Linux-6.1.0-37-cloud-amd64-x86_64-with-glibc2.36
+2025-08-04 18:38:07 - (sanic.root)[INFO]: auto-reload: enabled
+2025-08-04 18:38:07 - (sanic.root)[INFO]: packages: sanic-routing==23.12.0
+2025-08-04 18:38:17 - (sanic.root)[INFO]: App started
+2025-08-04 18:38:17 - (sanic.root)[INFO]: App started
+2025-08-04 19:07:43 - (sanic.root)[INFO]: Received signal SIGTERM. Shutting down.
+2025-08-04 19:07:43 - (sanic.root)[INFO]: Server Stopped
+2025-08-04 19:08:18 - (sanic.root)[INFO]: App started
+2025-08-04 19:08:19 - (sanic.root)[INFO]: Sanic v25.3.0
+2025-08-04 19:08:19 - (sanic.root)[INFO]: Goin' Fast @ /home/le/crazystar/crazystar.sock http://...
+2025-08-04 19:08:19 - (sanic.root)[INFO]: app: app
+2025-08-04 19:08:19 - (sanic.root)[INFO]: mode: production, single worker
+2025-08-04 19:08:19 - (sanic.root)[INFO]: server: sanic, HTTP/1.1
+2025-08-04 19:08:19 - (sanic.root)[INFO]: python: 3.12.11
+2025-08-04 19:08:19 - (sanic.root)[INFO]: platform: Linux-6.1.0-37-cloud-amd64-x86_64-with-glibc2.36
+2025-08-04 19:08:19 - (sanic.root)[INFO]: auto-reload: enabled
+2025-08-04 19:08:19 - (sanic.root)[INFO]: packages: sanic-routing==23.12.0
+2025-08-04 19:08:30 - (sanic.root)[INFO]: App started
+2025-08-04 19:08:30 - (sanic.root)[INFO]: App started
+2025-08-04 21:20:27 - (sanic.root)[INFO]: App started
+2025-08-04 21:20:27 - (sanic.root)[INFO]: Sanic v25.3.0
+2025-08-04 21:20:27 - (sanic.root)[INFO]: Goin' Fast @ /home/le/crazystar/crazystar.sock http://...
+2025-08-04 21:20:27 - (sanic.root)[INFO]: app: app
+2025-08-04 21:20:27 - (sanic.root)[INFO]: mode: production, single worker
+2025-08-04 21:20:27 - (sanic.root)[INFO]: server: sanic, HTTP/1.1
+2025-08-04 21:20:27 - (sanic.root)[INFO]: python: 3.12.11
+2025-08-04 21:20:27 - (sanic.root)[INFO]: platform: Linux-6.1.0-37-cloud-amd64-x86_64-with-glibc2.36
+2025-08-04 21:20:27 - (sanic.root)[INFO]: auto-reload: enabled
+2025-08-04 21:20:27 - (sanic.root)[INFO]: packages: sanic-routing==23.12.0
+2025-08-04 21:20:37 - (sanic.root)[INFO]: App started
+2025-08-04 21:20:37 - (sanic.root)[INFO]: App started
+2025-08-04 21:49:54 - (sanic.root)[INFO]: App started
+2025-08-04 21:49:54 - (sanic.root)[INFO]: Sanic v25.3.0
+2025-08-04 21:49:54 - (sanic.root)[INFO]: Goin' Fast @ /home/le/crazystar/crazystar.sock http://...
+2025-08-04 21:49:54 - (sanic.root)[INFO]: app: app
+2025-08-04 21:49:54 - (sanic.root)[INFO]: mode: production, single worker
+2025-08-04 21:49:54 - (sanic.root)[INFO]: server: sanic, HTTP/1.1
+2025-08-04 21:49:54 - (sanic.root)[INFO]: python: 3.12.11
+2025-08-04 21:49:54 - (sanic.root)[INFO]: platform: Linux-6.1.0-37-cloud-amd64-x86_64-with-glibc2.36
+2025-08-04 21:49:54 - (sanic.root)[INFO]: auto-reload: enabled
+2025-08-04 21:49:54 - (sanic.root)[INFO]: packages: sanic-routing==23.12.0
+2025-08-04 21:50:05 - (sanic.root)[INFO]: App started
+2025-08-04 21:50:05 - (sanic.root)[INFO]: App started
+2025-08-05 06:36:01 - (sanic.root)[INFO]: Room created: k
+2025-08-05 19:58:21 - (sanic.root)[ERROR]: The error response will not be sent to the client for the following exception:"'aaf544557d8b414980d7bc049022bff3'". A previous response has at least partially been sent.
+2025-08-07 10:48:59 - (sanic.root)[INFO]: Room created: iii
+2025-08-07 11:26:22 - (sanic.root)[ERROR]: The error response will not be sent to the client for the following exception:"'c5a1aab9acc64ea6a401961999f35464'". A previous response has at least partially been sent.
+2025-08-11 07:45:29 - (sanic.root)[INFO]: Room created: rureyrfyu
+2025-08-14 21:58:43 - (sanic.root)[INFO]: Room created: EN
+2025-08-15 22:17:56 - (sanic.root)[INFO]: Room created: Pete
+2025-08-15 22:19:32 - (sanic.root)[ERROR]: The error response will not be sent to the client for the following exception:"'79e758d42bc4438ea3bb3baf24db6db6'". A previous response has at least partially been sent.
+2025-08-15 22:19:51 - (sanic.root)[ERROR]: The error response will not be sent to the client for the following exception:"'79e758d42bc4438ea3bb3baf24db6db6'". A previous response has at least partially been sent.
+2025-08-15 22:22:14 - (sanic.root)[ERROR]: The error response will not be sent to the client for the following exception:"'79e758d42bc4438ea3bb3baf24db6db6'". A previous response has at least partially been sent.
+2025-08-20 23:32:39 - (sanic.root)[ERROR]: The error response will not be sent to the client for the following exception:"'370c6b60c0f643d4ae8fce67fc10ab71'". A previous response has at least partially been sent.
+2025-08-20 23:33:09 - (sanic.root)[ERROR]: The error response will not be sent to the client for the following exception:"'370c6b60c0f643d4ae8fce67fc10ab71'". A previous response has at least partially been sent.
+2025-08-20 23:33:41 - (sanic.root)[INFO]: Room created: cs
+2025-08-24 16:54:42 - (sanic.root)[INFO]: Room created: ff
+2025-08-24 17:04:54 - (sanic.root)[ERROR]: The error response will not be sent to the client for the following exception:"'210b5956804d41d19b6e4f4e4bb6f20a'". A previous response has at least partially been sent.
+2025-08-31 16:33:01 - (sanic.root)[INFO]: Room created: ds
+2025-09-02 23:03:55 - (sanic.root)[INFO]: Room created: Test
+2025-09-06 10:44:24 - (sanic.root)[INFO]: Room created: we
+2025-09-07 03:25:06 - (sanic.root)[ERROR]: The error response will not be sent to the client for the following exception:"'8459696f7f5e4480b1f3a31a85581217'". A previous response has at least partially been sent.
+2025-09-10 08:26:16 - (sanic.root)[INFO]: Received signal SIGTERM. Shutting down.
+2025-09-10 08:26:16 - (sanic.root)[INFO]: Server Stopped
+2025-09-10 08:26:34 - (sanic.root)[INFO]: App started
+2025-09-10 08:26:34 - (sanic.root)[INFO]: Sanic v25.3.0
+2025-09-10 08:26:34 - (sanic.root)[INFO]: Goin' Fast @ /home/le/crazystar/crazystar.sock http://...
+2025-09-10 08:26:34 - (sanic.root)[INFO]: app: app
+2025-09-10 08:26:34 - (sanic.root)[INFO]: mode: production, single worker
+2025-09-10 08:26:34 - (sanic.root)[INFO]: server: sanic, HTTP/1.1
+2025-09-10 08:26:34 - (sanic.root)[INFO]: python: 3.12.11
+2025-09-10 08:26:34 - (sanic.root)[INFO]: platform: Linux-6.1.0-39-cloud-amd64-x86_64-with-glibc2.36
+2025-09-10 08:26:34 - (sanic.root)[INFO]: auto-reload: enabled
+2025-09-10 08:26:34 - (sanic.root)[INFO]: packages: sanic-routing==23.12.0
+2025-09-10 08:26:43 - (sanic.root)[INFO]: App started
+2025-09-10 08:26:43 - (sanic.root)[INFO]: App started
+2025-09-18 02:34:10 - (sanic.root)[INFO]: Room created: test
+2025-09-19 15:26:54 - (sanic.root)[INFO]: Room created: j
+2025-09-19 15:26:56 - (sanic.root)[ERROR]: The error response will not be sent to the client for the following exception:"'62baaa5d00bd4fdd94b7b0b13f72127b'". A previous response has at least partially been sent.
+2025-09-30 14:55:36 - (sanic.root)[INFO]: Room created: neamar
+2025-10-02 16:38:53 - (sanic.root)[INFO]: App started
+2025-10-02 16:38:53 - (sanic.root)[INFO]: Sanic v25.3.0
+2025-10-02 16:38:53 - (sanic.root)[INFO]: Goin' Fast @ /home/le/crazystar/crazystar.sock http://...
+2025-10-02 16:38:53 - (sanic.root)[INFO]: app: app
+2025-10-02 16:38:53 - (sanic.root)[INFO]: mode: production, single worker
+2025-10-02 16:38:53 - (sanic.root)[INFO]: server: sanic, HTTP/1.1
+2025-10-02 16:38:53 - (sanic.root)[INFO]: python: 3.12.11
+2025-10-02 16:38:53 - (sanic.root)[INFO]: platform: Linux-6.1.0-40-cloud-amd64-x86_64-with-glibc2.36
+2025-10-02 16:38:53 - (sanic.root)[INFO]: auto-reload: enabled
+2025-10-02 16:38:53 - (sanic.root)[INFO]: packages: sanic-routing==23.12.0
+2025-10-02 16:39:04 - (sanic.root)[INFO]: App started
+2025-10-02 16:39:04 - (sanic.root)[INFO]: App started
+2025-10-02 16:50:35 - (sanic.root)[INFO]: App started
+2025-10-02 16:50:35 - (sanic.root)[INFO]: Sanic v25.3.0
+2025-10-02 16:50:35 - (sanic.root)[INFO]: Goin' Fast @ /home/le/crazystar/crazystar.sock http://...
+2025-10-02 16:50:35 - (sanic.root)[INFO]: app: app
+2025-10-02 16:50:35 - (sanic.root)[INFO]: mode: production, single worker
+2025-10-02 16:50:35 - (sanic.root)[INFO]: server: sanic, HTTP/1.1
+2025-10-02 16:50:35 - (sanic.root)[INFO]: python: 3.12.11
+2025-10-02 16:50:35 - (sanic.root)[INFO]: platform: Linux-6.1.0-40-cloud-amd64-x86_64-with-glibc2.36
+2025-10-02 16:50:35 - (sanic.root)[INFO]: auto-reload: enabled
+2025-10-02 16:50:35 - (sanic.root)[INFO]: packages: sanic-routing==23.12.0
+2025-10-02 16:50:47 - (sanic.root)[INFO]: App started
+2025-10-02 16:50:47 - (sanic.root)[INFO]: App started
+2025-10-02 17:04:43 - (sanic.root)[INFO]: App started
+2025-10-02 17:04:43 - (sanic.root)[INFO]: Sanic v25.3.0
+2025-10-02 17:04:43 - (sanic.root)[INFO]: Goin' Fast @ /home/le/crazystar/crazystar.sock http://...
+2025-10-02 17:04:43 - (sanic.root)[INFO]: app: app
+2025-10-02 17:04:43 - (sanic.root)[INFO]: mode: production, single worker
+2025-10-02 17:04:43 - (sanic.root)[INFO]: server: sanic, HTTP/1.1
+2025-10-02 17:04:43 - (sanic.root)[INFO]: python: 3.12.11
+2025-10-02 17:04:43 - (sanic.root)[INFO]: platform: Linux-6.1.0-40-cloud-amd64-x86_64-with-glibc2.36
+2025-10-02 17:04:43 - (sanic.root)[INFO]: auto-reload: enabled
+2025-10-02 17:04:43 - (sanic.root)[INFO]: packages: sanic-routing==23.12.0
+2025-10-02 17:04:54 - (sanic.root)[INFO]: App started
+2025-10-02 17:04:54 - (sanic.root)[INFO]: App started
+2025-10-04 00:16:42 - (sanic.root)[INFO]: Room created: mmm
+2025-10-09 12:47:22 - (sanic.root)[ERROR]: The error response will not be sent to the client for the following exception:"'9c15f0737d1b482b966a9aaaf2241b54'". A previous response has at least partially been sent.
+2025-10-10 11:50:58 - (sanic.root)[INFO]: App started
+2025-10-10 11:50:59 - (sanic.root)[INFO]: Sanic v25.3.0
+2025-10-10 11:50:59 - (sanic.root)[INFO]: Goin' Fast @ /home/le/crazystar/crazystar.sock http://...
+2025-10-10 11:50:59 - (sanic.root)[INFO]: app: app
+2025-10-10 11:50:59 - (sanic.root)[INFO]: mode: production, single worker
+2025-10-10 11:50:59 - (sanic.root)[INFO]: server: sanic, HTTP/1.1
+2025-10-10 11:50:59 - (sanic.root)[INFO]: python: 3.12.11
+2025-10-10 11:50:59 - (sanic.root)[INFO]: platform: Linux-6.1.0-40-cloud-amd64-x86_64-with-glibc2.36
+2025-10-10 11:50:59 - (sanic.root)[INFO]: auto-reload: enabled
+2025-10-10 11:50:59 - (sanic.root)[INFO]: packages: sanic-routing==23.12.0
+2025-10-10 11:51:13 - (sanic.root)[INFO]: App started
+2025-10-10 11:51:13 - (sanic.root)[INFO]: App started
+2025-10-12 03:08:53 - (sanic.root)[INFO]: Room created: hi
+2025-10-12 03:09:38 - (sanic.root)[ERROR]: The error response will not be sent to the client for the following exception:"'e8492016dfde4e27b1808cc8f8a1e7dc'". A previous response has at least partially been sent.
+2025-10-12 13:24:10 - (sanic.root)[INFO]: Room created: gg
+2025-10-12 19:26:28 - (sanic.root)[INFO]: Room created: kkk
+2025-10-12 19:26:30 - (sanic.root)[ERROR]: The error response will not be sent to the client for the following exception:"'f78553c8b0b6431d80b393322e5dad08'". A previous response has at least partially been sent.
+2025-10-12 19:26:35 - (sanic.root)[ERROR]: The error response will not be sent to the client for the following exception:"'f78553c8b0b6431d80b393322e5dad08'". A previous response has at least partially been sent.
+2025-10-13 12:57:39 - (sanic.root)[INFO]: Room created: roomba
