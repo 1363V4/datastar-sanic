@@ -271,3 +271,474 @@
 2025-10-12 19:26:30 - (sanic.root)[ERROR]: The error response will not be sent to the client for the following exception:"'f78553c8b0b6431d80b393322e5dad08'". A previous response has at least partially been sent.
 2025-10-12 19:26:35 - (sanic.root)[ERROR]: The error response will not be sent to the client for the following exception:"'f78553c8b0b6431d80b393322e5dad08'". A previous response has at least partially been sent.
 2025-10-13 12:57:39 - (sanic.root)[INFO]: Room created: roomba
+2025-10-17 02:39:26 - (sanic.root)[ERROR]: The error response will not be sent to the client for the following exception:"'ded99aca019b4d1abbc32cd092cc4e93'". A previous response has at least partially been sent.
+2025-10-18 19:56:55 - (sanic.root)[INFO]: Room created: Test
+2025-11-05 21:35:42 - (sanic.root)[INFO]: Room created: Toto
+2025-11-07 14:19:46 - (sanic.root)[INFO]: Room created: xxx
+2025-11-11 20:18:34 - (sanic.root)[INFO]: Room created: sdf
+2025-11-19 18:33:56 - (sanic.root)[INFO]: App started
+2025-11-19 18:33:56 - (sanic.root)[INFO]: Sanic v25.3.0
+2025-11-19 18:33:56 - (sanic.root)[INFO]: Goin' Fast @ /home/le/crazystar/crazystar.sock http://...
+2025-11-19 18:33:56 - (sanic.root)[INFO]: app: app
+2025-11-19 18:33:56 - (sanic.root)[INFO]: mode: production, single worker
+2025-11-19 18:33:56 - (sanic.root)[INFO]: server: sanic, HTTP/1.1
+2025-11-19 18:33:56 - (sanic.root)[INFO]: python: 3.12.11
+2025-11-19 18:33:56 - (sanic.root)[INFO]: platform: Linux-6.1.0-41-cloud-amd64-x86_64-with-glibc2.36
+2025-11-19 18:33:56 - (sanic.root)[INFO]: auto-reload: enabled
+2025-11-19 18:33:56 - (sanic.root)[INFO]: packages: sanic-routing==23.12.0
+2025-11-19 18:34:10 - (sanic.root)[INFO]: App started
+2025-11-19 18:34:10 - (sanic.root)[INFO]: App started
+2025-11-21 20:34:22 - (sanic.root)[INFO]: Room created: ww
+2025-11-21 20:34:25 - (sanic.root)[ERROR]: The error response will not be sent to the client for the following exception:"'68215bde91a14750930a421bbe5ccc28'". A previous response has at least partially been sent.
+2025-11-21 20:56:23 - (sanic.root)[INFO]: Room created: crazy
+2025-11-26 17:53:24 - (sanic.root)[INFO]: App started
+2025-11-26 17:53:24 - (sanic.root)[INFO]: Sanic v25.3.0
+2025-11-26 17:53:24 - (sanic.root)[INFO]: Goin' Fast @ /home/le/crazystar/crazystar.sock http://...
+2025-11-26 17:53:24 - (sanic.root)[INFO]: app: app
+2025-11-26 17:53:24 - (sanic.root)[INFO]: mode: production, single worker
+2025-11-26 17:53:24 - (sanic.root)[INFO]: server: sanic, HTTP/1.1
+2025-11-26 17:53:24 - (sanic.root)[INFO]: python: 3.12.11
+2025-11-26 17:53:24 - (sanic.root)[INFO]: platform: Linux-6.1.0-41-cloud-amd64-x86_64-with-glibc2.36
+2025-11-26 17:53:24 - (sanic.root)[INFO]: auto-reload: enabled
+2025-11-26 17:53:24 - (sanic.root)[INFO]: packages: sanic-routing==23.12.0
+2025-11-26 17:53:37 - (sanic.root)[INFO]: App started
+2025-11-26 17:53:37 - (sanic.root)[INFO]: App started
+2025-11-26 17:55:09 - (sanic.root)[INFO]: App started
+2025-11-26 17:55:09 - (sanic.root)[INFO]: Sanic v25.3.0
+2025-11-26 17:55:09 - (sanic.root)[INFO]: Goin' Fast @ /home/le/crazystar/crazystar.sock http://...
+2025-11-26 17:55:09 - (sanic.root)[INFO]: app: app
+2025-11-26 17:55:09 - (sanic.root)[INFO]: mode: production, single worker
+2025-11-26 17:55:09 - (sanic.root)[INFO]: server: sanic, HTTP/1.1
+2025-11-26 17:55:09 - (sanic.root)[INFO]: python: 3.12.11
+2025-11-26 17:55:09 - (sanic.root)[INFO]: platform: Linux-6.1.0-41-cloud-amd64-x86_64-with-glibc2.36
+2025-11-26 17:55:09 - (sanic.root)[INFO]: auto-reload: enabled
+2025-11-26 17:55:09 - (sanic.root)[INFO]: packages: sanic-routing==23.12.0
+2025-11-26 17:55:24 - (sanic.root)[INFO]: App started
+2025-11-26 17:55:25 - (sanic.root)[INFO]: App started
+2025-11-26 18:04:41 - (sanic.root)[INFO]: App started
+2025-11-26 18:04:41 - (sanic.root)[INFO]: Sanic v25.3.0
+2025-11-26 18:04:41 - (sanic.root)[INFO]: Goin' Fast @ /home/le/crazystar/crazystar.sock http://...
+2025-11-26 18:04:41 - (sanic.root)[INFO]: app: app
+2025-11-26 18:04:41 - (sanic.root)[INFO]: mode: production, single worker
+2025-11-26 18:04:41 - (sanic.root)[INFO]: server: sanic, HTTP/1.1
+2025-11-26 18:04:41 - (sanic.root)[INFO]: python: 3.12.11
+2025-11-26 18:04:41 - (sanic.root)[INFO]: platform: Linux-6.1.0-41-cloud-amd64-x86_64-with-glibc2.36
+2025-11-26 18:04:41 - (sanic.root)[INFO]: auto-reload: enabled
+2025-11-26 18:04:41 - (sanic.root)[INFO]: packages: sanic-routing==23.12.0
+2025-11-26 18:04:57 - (sanic.root)[INFO]: App started
+2025-11-26 18:04:57 - (sanic.root)[INFO]: App started
+2025-11-26 18:12:11 - (sanic.root)[INFO]: App started
+2025-11-26 18:12:12 - (sanic.root)[INFO]: Sanic v25.3.0
+2025-11-26 18:12:12 - (sanic.root)[INFO]: Goin' Fast @ /home/le/crazystar/crazystar.sock http://...
+2025-11-26 18:12:12 - (sanic.root)[INFO]: app: app
+2025-11-26 18:12:12 - (sanic.root)[INFO]: mode: production, single worker
+2025-11-26 18:12:12 - (sanic.root)[INFO]: server: sanic, HTTP/1.1
+2025-11-26 18:12:12 - (sanic.root)[INFO]: python: 3.12.11
+2025-11-26 18:12:12 - (sanic.root)[INFO]: platform: Linux-6.1.0-41-cloud-amd64-x86_64-with-glibc2.36
+2025-11-26 18:12:12 - (sanic.root)[INFO]: auto-reload: enabled
+2025-11-26 18:12:12 - (sanic.root)[INFO]: packages: sanic-routing==23.12.0
+2025-11-26 18:12:24 - (sanic.root)[INFO]: App started
+2025-11-26 18:12:24 - (sanic.root)[INFO]: App started
+2025-11-26 18:15:30 - (sanic.root)[INFO]: Received signal SIGTERM. Shutting down.
+2025-11-26 18:15:30 - (sanic.root)[INFO]: Server Stopped
+2025-11-26 18:17:24 - (sanic.root)[INFO]: App started
+2025-11-26 18:17:24 - (sanic.root)[INFO]: Sanic v25.3.0
+2025-11-26 18:17:24 - (sanic.root)[INFO]: Goin' Fast @ /home/le/crazystar/crazystar.sock http://...
+2025-11-26 18:17:24 - (sanic.root)[INFO]: app: app
+2025-11-26 18:17:24 - (sanic.root)[INFO]: mode: production, single worker
+2025-11-26 18:17:24 - (sanic.root)[INFO]: server: sanic, HTTP/1.1
+2025-11-26 18:17:24 - (sanic.root)[INFO]: python: 3.12.11
+2025-11-26 18:17:24 - (sanic.root)[INFO]: platform: Linux-6.1.0-41-cloud-amd64-x86_64-with-glibc2.36
+2025-11-26 18:17:24 - (sanic.root)[INFO]: auto-reload: enabled
+2025-11-26 18:17:24 - (sanic.root)[INFO]: packages: sanic-routing==23.12.0
+2025-11-26 18:17:37 - (sanic.root)[INFO]: App started
+2025-11-26 18:17:37 - (sanic.root)[INFO]: App started
+2025-11-26 18:51:03 - (sanic.root)[INFO]: App started
+2025-11-26 18:51:03 - (sanic.root)[INFO]: Sanic v25.3.0
+2025-11-26 18:51:03 - (sanic.root)[INFO]: Goin' Fast @ /home/le/crazystar/crazystar.sock http://...
+2025-11-26 18:51:03 - (sanic.root)[INFO]: app: app
+2025-11-26 18:51:03 - (sanic.root)[INFO]: mode: production, single worker
+2025-11-26 18:51:03 - (sanic.root)[INFO]: server: sanic, HTTP/1.1
+2025-11-26 18:51:03 - (sanic.root)[INFO]: python: 3.12.11
+2025-11-26 18:51:03 - (sanic.root)[INFO]: platform: Linux-6.1.0-41-cloud-amd64-x86_64-with-glibc2.36
+2025-11-26 18:51:03 - (sanic.root)[INFO]: auto-reload: enabled
+2025-11-26 18:51:03 - (sanic.root)[INFO]: packages: sanic-routing==23.12.0
+2025-11-26 18:51:17 - (sanic.root)[INFO]: App started
+2025-11-26 18:51:17 - (sanic.root)[INFO]: App started
+2025-11-26 18:53:18 - (sanic.root)[INFO]: App started
+2025-11-26 18:53:18 - (sanic.root)[INFO]: Sanic v25.3.0
+2025-11-26 18:53:18 - (sanic.root)[INFO]: Goin' Fast @ /home/le/crazystar/crazystar.sock http://...
+2025-11-26 18:53:18 - (sanic.root)[INFO]: app: app
+2025-11-26 18:53:18 - (sanic.root)[INFO]: mode: production, single worker
+2025-11-26 18:53:18 - (sanic.root)[INFO]: server: sanic, HTTP/1.1
+2025-11-26 18:53:18 - (sanic.root)[INFO]: python: 3.12.11
+2025-11-26 18:53:18 - (sanic.root)[INFO]: platform: Linux-6.1.0-41-cloud-amd64-x86_64-with-glibc2.36
+2025-11-26 18:53:18 - (sanic.root)[INFO]: auto-reload: enabled
+2025-11-26 18:53:18 - (sanic.root)[INFO]: packages: sanic-routing==23.12.0
+2025-11-26 18:53:30 - (sanic.root)[INFO]: App started
+2025-11-26 18:53:30 - (sanic.root)[INFO]: App started
+2025-11-26 18:55:49 - (sanic.root)[INFO]: App started
+2025-11-26 18:55:49 - (sanic.root)[INFO]: Sanic v25.3.0
+2025-11-26 18:55:49 - (sanic.root)[INFO]: Goin' Fast @ /home/le/crazystar/crazystar.sock http://...
+2025-11-26 18:55:49 - (sanic.root)[INFO]: app: app
+2025-11-26 18:55:49 - (sanic.root)[INFO]: mode: production, single worker
+2025-11-26 18:55:49 - (sanic.root)[INFO]: server: sanic, HTTP/1.1
+2025-11-26 18:55:49 - (sanic.root)[INFO]: python: 3.12.11
+2025-11-26 18:55:49 - (sanic.root)[INFO]: platform: Linux-6.1.0-41-cloud-amd64-x86_64-with-glibc2.36
+2025-11-26 18:55:49 - (sanic.root)[INFO]: auto-reload: enabled
+2025-11-26 18:55:49 - (sanic.root)[INFO]: packages: sanic-routing==23.12.0
+2025-11-26 18:56:01 - (sanic.root)[INFO]: App started
+2025-11-26 18:56:01 - (sanic.root)[INFO]: App started
+2025-11-26 22:10:05 - (sanic.root)[INFO]: App started
+2025-11-26 22:10:06 - (sanic.root)[INFO]: Sanic v25.3.0
+2025-11-26 22:10:06 - (sanic.root)[INFO]: Goin' Fast @ /home/le/crazystar/crazystar.sock http://...
+2025-11-26 22:10:06 - (sanic.root)[INFO]: app: app
+2025-11-26 22:10:06 - (sanic.root)[INFO]: mode: production, single worker
+2025-11-26 22:10:06 - (sanic.root)[INFO]: server: sanic, HTTP/1.1
+2025-11-26 22:10:06 - (sanic.root)[INFO]: python: 3.12.11
+2025-11-26 22:10:06 - (sanic.root)[INFO]: platform: Linux-6.1.0-41-cloud-amd64-x86_64-with-glibc2.36
+2025-11-26 22:10:06 - (sanic.root)[INFO]: auto-reload: enabled
+2025-11-26 22:10:06 - (sanic.root)[INFO]: packages: sanic-routing==23.12.0
+2025-11-26 22:10:18 - (sanic.root)[INFO]: App started
+2025-11-26 22:10:18 - (sanic.root)[INFO]: App started
+2025-11-26 22:13:11 - (sanic.root)[INFO]: App started
+2025-11-26 22:13:11 - (sanic.root)[INFO]: Sanic v25.3.0
+2025-11-26 22:13:11 - (sanic.root)[INFO]: Goin' Fast @ /home/le/crazystar/crazystar.sock http://...
+2025-11-26 22:13:11 - (sanic.root)[INFO]: app: app
+2025-11-26 22:13:11 - (sanic.root)[INFO]: mode: production, single worker
+2025-11-26 22:13:11 - (sanic.root)[INFO]: server: sanic, HTTP/1.1
+2025-11-26 22:13:11 - (sanic.root)[INFO]: python: 3.12.11
+2025-11-26 22:13:11 - (sanic.root)[INFO]: platform: Linux-6.1.0-41-cloud-amd64-x86_64-with-glibc2.36
+2025-11-26 22:13:11 - (sanic.root)[INFO]: auto-reload: enabled
+2025-11-26 22:13:11 - (sanic.root)[INFO]: packages: sanic-routing==23.12.0
+2025-11-26 22:13:24 - (sanic.root)[INFO]: App started
+2025-11-26 22:13:24 - (sanic.root)[INFO]: App started
+2025-11-26 22:38:15 - (sanic.root)[INFO]: App started
+2025-11-26 22:38:15 - (sanic.root)[INFO]: Sanic v25.3.0
+2025-11-26 22:38:15 - (sanic.root)[INFO]: Goin' Fast @ /home/le/crazystar/crazystar.sock http://...
+2025-11-26 22:38:15 - (sanic.root)[INFO]: app: app
+2025-11-26 22:38:15 - (sanic.root)[INFO]: mode: production, single worker
+2025-11-26 22:38:15 - (sanic.root)[INFO]: server: sanic, HTTP/1.1
+2025-11-26 22:38:15 - (sanic.root)[INFO]: python: 3.12.11
+2025-11-26 22:38:15 - (sanic.root)[INFO]: platform: Linux-6.1.0-41-cloud-amd64-x86_64-with-glibc2.36
+2025-11-26 22:38:15 - (sanic.root)[INFO]: auto-reload: enabled
+2025-11-26 22:38:15 - (sanic.root)[INFO]: packages: sanic-routing==23.12.0
+2025-11-26 22:38:28 - (sanic.root)[INFO]: App started
+2025-11-26 22:38:28 - (sanic.root)[INFO]: App started
+2025-11-26 22:54:57 - (sanic.root)[INFO]: App started
+2025-11-26 22:54:57 - (sanic.root)[INFO]: Sanic v25.3.0
+2025-11-26 22:54:57 - (sanic.root)[INFO]: Goin' Fast @ /home/le/crazystar/crazystar.sock http://...
+2025-11-26 22:54:57 - (sanic.root)[INFO]: app: app
+2025-11-26 22:54:57 - (sanic.root)[INFO]: mode: production, single worker
+2025-11-26 22:54:57 - (sanic.root)[INFO]: server: sanic, HTTP/1.1
+2025-11-26 22:54:57 - (sanic.root)[INFO]: python: 3.12.11
+2025-11-26 22:54:57 - (sanic.root)[INFO]: platform: Linux-6.1.0-41-cloud-amd64-x86_64-with-glibc2.36
+2025-11-26 22:54:57 - (sanic.root)[INFO]: auto-reload: enabled
+2025-11-26 22:54:57 - (sanic.root)[INFO]: packages: sanic-routing==23.12.0
+2025-11-26 22:55:14 - (sanic.root)[INFO]: App started
+2025-11-26 22:55:14 - (sanic.root)[INFO]: App started
+2025-11-27 13:53:43 - (sanic.root)[INFO]: App started
+2025-11-27 13:53:43 - (sanic.root)[INFO]: Sanic v25.3.0
+2025-11-27 13:53:43 - (sanic.root)[INFO]: Goin' Fast @ /home/le/crazystar/crazystar.sock http://...
+2025-11-27 13:53:43 - (sanic.root)[INFO]: app: app
+2025-11-27 13:53:43 - (sanic.root)[INFO]: mode: production, single worker
+2025-11-27 13:53:43 - (sanic.root)[INFO]: server: sanic, HTTP/1.1
+2025-11-27 13:53:43 - (sanic.root)[INFO]: python: 3.12.11
+2025-11-27 13:53:43 - (sanic.root)[INFO]: platform: Linux-6.1.0-41-cloud-amd64-x86_64-with-glibc2.36
+2025-11-27 13:53:43 - (sanic.root)[INFO]: auto-reload: enabled
+2025-11-27 13:53:43 - (sanic.root)[INFO]: packages: sanic-routing==23.12.0
+2025-11-27 13:53:57 - (sanic.root)[INFO]: App started
+2025-11-27 13:53:57 - (sanic.root)[INFO]: App started
+2025-11-27 16:06:38 - (sanic.root)[INFO]: Received signal SIGTERM. Shutting down.
+2025-11-27 16:06:38 - (sanic.root)[INFO]: Server Stopped
+2025-11-27 16:06:56 - (sanic.root)[INFO]: App started
+2025-11-27 16:06:57 - (sanic.root)[INFO]: Sanic v25.3.0
+2025-11-27 16:06:57 - (sanic.root)[INFO]: Goin' Fast @ /home/le/crazystar/crazystar.sock http://...
+2025-11-27 16:06:57 - (sanic.root)[INFO]: app: app
+2025-11-27 16:06:57 - (sanic.root)[INFO]: mode: production, single worker
+2025-11-27 16:06:57 - (sanic.root)[INFO]: server: sanic, HTTP/1.1
+2025-11-27 16:06:57 - (sanic.root)[INFO]: python: 3.12.11
+2025-11-27 16:06:57 - (sanic.root)[INFO]: platform: Linux-6.1.0-41-cloud-amd64-x86_64-with-glibc2.36
+2025-11-27 16:06:57 - (sanic.root)[INFO]: auto-reload: enabled
+2025-11-27 16:06:57 - (sanic.root)[INFO]: packages: sanic-routing==23.12.0
+2025-11-27 16:07:09 - (sanic.root)[INFO]: App started
+2025-11-27 16:07:09 - (sanic.root)[INFO]: App started
+2025-11-27 16:14:02 - (sanic.root)[INFO]: Received signal SIGTERM. Shutting down.
+2025-11-27 16:14:03 - (sanic.root)[INFO]: Server Stopped
+2025-11-27 16:14:22 - (sanic.root)[INFO]: App started
+2025-11-27 16:14:22 - (sanic.root)[INFO]: Sanic v25.3.0
+2025-11-27 16:14:22 - (sanic.root)[INFO]: Goin' Fast @ /home/le/crazystar/crazystar.sock http://...
+2025-11-27 16:14:22 - (sanic.root)[INFO]: app: app
+2025-11-27 16:14:22 - (sanic.root)[INFO]: mode: production, single worker
+2025-11-27 16:14:22 - (sanic.root)[INFO]: server: sanic, HTTP/1.1
+2025-11-27 16:14:22 - (sanic.root)[INFO]: python: 3.12.11
+2025-11-27 16:14:22 - (sanic.root)[INFO]: platform: Linux-6.1.0-41-cloud-amd64-x86_64-with-glibc2.36
+2025-11-27 16:14:22 - (sanic.root)[INFO]: auto-reload: enabled
+2025-11-27 16:14:22 - (sanic.root)[INFO]: packages: sanic-routing==23.12.0
+2025-11-27 16:14:35 - (sanic.root)[INFO]: App started
+2025-11-27 16:14:35 - (sanic.root)[INFO]: App started
+2025-11-27 16:28:06 - (sanic.root)[INFO]: Received signal SIGTERM. Shutting down.
+2025-11-27 16:28:07 - (sanic.root)[INFO]: Server Stopped
+2025-11-27 16:28:24 - (sanic.root)[INFO]: App started
+2025-11-27 16:28:24 - (sanic.root)[INFO]: Sanic v25.3.0
+2025-11-27 16:28:24 - (sanic.root)[INFO]: Goin' Fast @ /home/le/crazystar/crazystar.sock http://...
+2025-11-27 16:28:24 - (sanic.root)[INFO]: app: app
+2025-11-27 16:28:24 - (sanic.root)[INFO]: mode: production, single worker
+2025-11-27 16:28:24 - (sanic.root)[INFO]: server: sanic, HTTP/1.1
+2025-11-27 16:28:24 - (sanic.root)[INFO]: python: 3.12.11
+2025-11-27 16:28:24 - (sanic.root)[INFO]: platform: Linux-6.1.0-41-cloud-amd64-x86_64-with-glibc2.36
+2025-11-27 16:28:24 - (sanic.root)[INFO]: auto-reload: enabled
+2025-11-27 16:28:24 - (sanic.root)[INFO]: packages: sanic-routing==23.12.0
+2025-11-27 16:28:36 - (sanic.root)[INFO]: App started
+2025-11-27 16:28:36 - (sanic.root)[INFO]: App started
+2025-11-27 16:46:36 - (sanic.root)[INFO]: Received signal SIGTERM. Shutting down.
+2025-11-27 16:46:36 - (sanic.root)[INFO]: Server Stopped
+2025-11-27 16:46:55 - (sanic.root)[INFO]: App started
+2025-11-27 16:46:55 - (sanic.root)[INFO]: Sanic v25.3.0
+2025-11-27 16:46:55 - (sanic.root)[INFO]: Goin' Fast @ /home/le/crazystar/crazystar.sock http://...
+2025-11-27 16:46:55 - (sanic.root)[INFO]: app: app
+2025-11-27 16:46:55 - (sanic.root)[INFO]: mode: production, single worker
+2025-11-27 16:46:55 - (sanic.root)[INFO]: server: sanic, HTTP/1.1
+2025-11-27 16:46:55 - (sanic.root)[INFO]: python: 3.12.11
+2025-11-27 16:46:55 - (sanic.root)[INFO]: platform: Linux-6.1.0-41-cloud-amd64-x86_64-with-glibc2.36
+2025-11-27 16:46:55 - (sanic.root)[INFO]: auto-reload: enabled
+2025-11-27 16:46:55 - (sanic.root)[INFO]: packages: sanic-routing==23.12.0
+2025-11-27 16:47:08 - (sanic.root)[INFO]: App started
+2025-11-27 16:47:08 - (sanic.root)[INFO]: App started
+2025-11-27 16:52:28 - (sanic.root)[INFO]: Received signal SIGTERM. Shutting down.
+2025-11-27 16:52:29 - (sanic.root)[INFO]: Server Stopped
+2025-11-27 16:52:48 - (sanic.root)[INFO]: App started
+2025-11-27 16:52:48 - (sanic.root)[INFO]: Sanic v25.3.0
+2025-11-27 16:52:48 - (sanic.root)[INFO]: Goin' Fast @ /home/le/crazystar/crazystar.sock http://...
+2025-11-27 16:52:48 - (sanic.root)[INFO]: app: app
+2025-11-27 16:52:48 - (sanic.root)[INFO]: mode: production, single worker
+2025-11-27 16:52:48 - (sanic.root)[INFO]: server: sanic, HTTP/1.1
+2025-11-27 16:52:48 - (sanic.root)[INFO]: python: 3.12.11
+2025-11-27 16:52:48 - (sanic.root)[INFO]: platform: Linux-6.1.0-41-cloud-amd64-x86_64-with-glibc2.36
+2025-11-27 16:52:48 - (sanic.root)[INFO]: auto-reload: enabled
+2025-11-27 16:52:48 - (sanic.root)[INFO]: packages: sanic-routing==23.12.0
+2025-11-27 16:53:01 - (sanic.root)[INFO]: App started
+2025-11-27 16:53:01 - (sanic.root)[INFO]: App started
+2025-12-01 20:08:23 - (sanic.root)[INFO]: Received signal SIGTERM. Shutting down.
+2025-12-01 20:08:24 - (sanic.root)[INFO]: Server Stopped
+2025-12-01 20:10:09 - (sanic.root)[INFO]: App started
+2025-12-01 20:10:09 - (sanic.root)[INFO]: Sanic v25.3.0
+2025-12-01 20:10:09 - (sanic.root)[INFO]: Goin' Fast @ /home/le/crazystar/crazystar.sock http://...
+2025-12-01 20:10:09 - (sanic.root)[INFO]: app: app
+2025-12-01 20:10:09 - (sanic.root)[INFO]: mode: production, single worker
+2025-12-01 20:10:09 - (sanic.root)[INFO]: server: sanic, HTTP/1.1
+2025-12-01 20:10:09 - (sanic.root)[INFO]: python: 3.12.11
+2025-12-01 20:10:09 - (sanic.root)[INFO]: platform: Linux-6.1.0-41-cloud-amd64-x86_64-with-glibc2.36
+2025-12-01 20:10:09 - (sanic.root)[INFO]: auto-reload: enabled
+2025-12-01 20:10:09 - (sanic.root)[INFO]: packages: sanic-routing==23.12.0
+2025-12-01 20:10:22 - (sanic.root)[INFO]: App started
+2025-12-01 20:10:22 - (sanic.root)[INFO]: App started
+2025-12-03 00:16:12 - (sanic.root)[INFO]: Room created: fsdfsdfsd
+2025-12-03 00:16:53 - (sanic.root)[ERROR]: The error response will not be sent to the client for the following exception:"'c697f9ea609e4012a7fbd79302c50f99'". A previous response has at least partially been sent.
+2025-12-04 21:41:22 - (sanic.root)[INFO]: Room created: Arcania
+2025-12-04 21:42:28 - (sanic.root)[ERROR]: The error response will not be sent to the client for the following exception:"'d8c675fcbd734daf81bce65d2c487db4'". A previous response has at least partially been sent.
+2025-12-05 08:44:17 - (sanic.root)[INFO]: Room created: kljlkj
+2025-12-05 10:06:17 - (sanic.root)[INFO]: Room created: crazyleg
+2025-12-05 14:10:54 - (sanic.root)[ERROR]: The error response will not be sent to the client for the following exception:"'7659a4db58634426a8983e158c82c6d0'". A previous response has at least partially been sent.
+2025-12-05 17:49:23 - (sanic.root)[INFO]: Room created: Josiah
+2025-12-05 21:12:28 - (sanic.root)[INFO]: Room created: dd
+2025-12-05 23:02:24 - (sanic.root)[INFO]: Room created: dddd
+2025-12-05 23:25:00 - (sanic.root)[INFO]: Room created: dfadf
+2025-12-06 04:25:47 - (sanic.root)[INFO]: Room created: k
+2025-12-06 07:16:28 - (sanic.root)[ERROR]: The error response will not be sent to the client for the following exception:"'9ebc361ecc084e4c86def490435389fc'". A previous response has at least partially been sent.
+2025-12-06 08:34:25 - (sanic.root)[ERROR]: The error response will not be sent to the client for the following exception:"'a48bf330b1ce4149a760826a56deb515'". A previous response has at least partially been sent.
+2025-12-06 14:14:04 - (sanic.root)[INFO]: Room created: Denzel
+2025-12-06 18:02:27 - (sanic.root)[INFO]: Room created: test
+2025-12-07 00:11:04 - (sanic.root)[INFO]: Room created: m
+2025-12-07 06:14:09 - (sanic.root)[INFO]: Room created: t
+2025-12-07 17:16:25 - (sanic.root)[INFO]: Room created: BK
+2025-12-08 15:39:34 - (sanic.root)[INFO]: Received signal SIGTERM. Shutting down.
+2025-12-08 15:39:35 - (sanic.root)[INFO]: Server Stopped
+2025-12-08 15:39:54 - (sanic.root)[INFO]: App started
+2025-12-08 15:39:55 - (sanic.root)[INFO]: Sanic v25.3.0
+2025-12-08 15:39:55 - (sanic.root)[INFO]: Goin' Fast @ /home/le/crazystar/crazystar.sock http://...
+2025-12-08 15:39:55 - (sanic.root)[INFO]: app: app
+2025-12-08 15:39:55 - (sanic.root)[INFO]: mode: production, single worker
+2025-12-08 15:39:55 - (sanic.root)[INFO]: server: sanic, HTTP/1.1
+2025-12-08 15:39:55 - (sanic.root)[INFO]: python: 3.12.11
+2025-12-08 15:39:55 - (sanic.root)[INFO]: platform: Linux-6.1.0-41-cloud-amd64-x86_64-with-glibc2.36
+2025-12-08 15:39:55 - (sanic.root)[INFO]: auto-reload: enabled
+2025-12-08 15:39:55 - (sanic.root)[INFO]: packages: sanic-routing==23.12.0
+2025-12-08 15:40:09 - (sanic.root)[INFO]: App started
+2025-12-08 15:40:09 - (sanic.root)[INFO]: App started
+2025-12-08 17:44:34 - (sanic.root)[INFO]: Room created: Ttt
+2025-12-08 23:19:50 - (sanic.root)[INFO]: Room created: ascascas
+2025-12-09 00:37:43 - (sanic.root)[INFO]: Room created: Hshsbs
+2025-12-09 19:23:56 - (sanic.root)[INFO]: Room created: hi
+2025-12-10 09:24:43 - (sanic.root)[INFO]: Room created: Xxxx
+2025-12-10 09:24:49 - (sanic.root)[INFO]: Room created: Xxxx
+2025-12-14 19:17:09 - (sanic.root)[INFO]: Room created: ww
+2025-12-14 20:02:40 - (sanic.root)[INFO]: Room created: ww
+2025-12-14 20:47:41 - (sanic.root)[INFO]: Room created: wwwww
+2025-12-16 16:46:53 - (sanic.root)[INFO]: Room created: Bshsn
+2025-12-19 16:54:13 - (sanic.root)[INFO]: Room created: test
+2025-12-23 01:51:15 - (sanic.root)[INFO]: Room created: hhtjuikj
+2025-12-24 22:24:03 - (sanic.root)[INFO]: Room created: Test
+2026-01-02 08:55:07 - (sanic.root)[INFO]: Room created: foo
+2026-01-04 21:09:50 - (sanic.root)[INFO]: Room created: Bk
+2026-01-05 02:35:36 - (sanic.root)[INFO]: Room created: test
+2026-01-10 12:31:48 - (sanic.root)[INFO]: Room created: Ass
+2026-01-10 12:53:09 - (sanic.root)[INFO]: App started
+2026-01-10 12:53:10 - (sanic.root)[INFO]: Sanic v25.3.0
+2026-01-10 12:53:10 - (sanic.root)[INFO]: Goin' Fast @ /home/le/crazystar/crazystar.sock http://...
+2026-01-10 12:53:10 - (sanic.root)[INFO]: app: app
+2026-01-10 12:53:10 - (sanic.root)[INFO]: mode: production, single worker
+2026-01-10 12:53:10 - (sanic.root)[INFO]: server: sanic, HTTP/1.1
+2026-01-10 12:53:10 - (sanic.root)[INFO]: python: 3.12.11
+2026-01-10 12:53:10 - (sanic.root)[INFO]: platform: Linux-6.1.0-41-cloud-amd64-x86_64-with-glibc2.36
+2026-01-10 12:53:10 - (sanic.root)[INFO]: auto-reload: enabled
+2026-01-10 12:53:10 - (sanic.root)[INFO]: packages: sanic-routing==23.12.0
+2026-01-10 12:53:23 - (sanic.root)[INFO]: App started
+2026-01-10 12:53:23 - (sanic.root)[INFO]: App started
+2026-01-10 13:15:48 - (sanic.root)[INFO]: App started
+2026-01-10 13:15:48 - (sanic.root)[INFO]: Sanic v25.3.0
+2026-01-10 13:15:48 - (sanic.root)[INFO]: Goin' Fast @ /home/le/crazystar/crazystar.sock http://...
+2026-01-10 13:15:48 - (sanic.root)[INFO]: app: app
+2026-01-10 13:15:48 - (sanic.root)[INFO]: mode: production, single worker
+2026-01-10 13:15:48 - (sanic.root)[INFO]: server: sanic, HTTP/1.1
+2026-01-10 13:15:48 - (sanic.root)[INFO]: python: 3.12.11
+2026-01-10 13:15:48 - (sanic.root)[INFO]: platform: Linux-6.1.0-41-cloud-amd64-x86_64-with-glibc2.36
+2026-01-10 13:15:48 - (sanic.root)[INFO]: auto-reload: enabled
+2026-01-10 13:15:48 - (sanic.root)[INFO]: packages: sanic-routing==23.12.0
+2026-01-10 13:16:06 - (sanic.root)[INFO]: App started
+2026-01-10 13:16:06 - (sanic.root)[INFO]: App started
+2026-01-12 22:16:33 - (sanic.root)[INFO]: App started
+2026-01-12 22:16:34 - (sanic.root)[INFO]: Sanic v25.3.0
+2026-01-12 22:16:34 - (sanic.root)[INFO]: Goin' Fast @ /home/le/crazystar/crazystar.sock http://...
+2026-01-12 22:16:34 - (sanic.root)[INFO]: app: app
+2026-01-12 22:16:34 - (sanic.root)[INFO]: mode: production, single worker
+2026-01-12 22:16:34 - (sanic.root)[INFO]: server: sanic, HTTP/1.1
+2026-01-12 22:16:34 - (sanic.root)[INFO]: python: 3.12.11
+2026-01-12 22:16:34 - (sanic.root)[INFO]: platform: Linux-6.1.0-42-cloud-amd64-x86_64-with-glibc2.36
+2026-01-12 22:16:34 - (sanic.root)[INFO]: auto-reload: enabled
+2026-01-12 22:16:34 - (sanic.root)[INFO]: packages: sanic-routing==23.12.0
+2026-01-12 22:16:50 - (sanic.root)[INFO]: App started
+2026-01-12 22:16:51 - (sanic.root)[INFO]: App started
+2026-01-12 22:18:28 - (sanic.root)[INFO]: App started
+2026-01-12 22:18:28 - (sanic.root)[INFO]: Sanic v25.3.0
+2026-01-12 22:18:28 - (sanic.root)[INFO]: Goin' Fast @ /home/le/crazystar/crazystar.sock http://...
+2026-01-12 22:18:28 - (sanic.root)[INFO]: app: app
+2026-01-12 22:18:28 - (sanic.root)[INFO]: mode: production, single worker
+2026-01-12 22:18:28 - (sanic.root)[INFO]: server: sanic, HTTP/1.1
+2026-01-12 22:18:28 - (sanic.root)[INFO]: python: 3.12.11
+2026-01-12 22:18:28 - (sanic.root)[INFO]: platform: Linux-6.1.0-42-cloud-amd64-x86_64-with-glibc2.36
+2026-01-12 22:18:28 - (sanic.root)[INFO]: auto-reload: enabled
+2026-01-12 22:18:28 - (sanic.root)[INFO]: packages: sanic-routing==23.12.0
+2026-01-12 22:18:44 - (sanic.root)[INFO]: App started
+2026-01-12 22:18:44 - (sanic.root)[INFO]: App started
+2026-01-12 22:20:21 - (sanic.root)[INFO]: App started
+2026-01-12 22:20:22 - (sanic.root)[INFO]: Sanic v25.3.0
+2026-01-12 22:20:22 - (sanic.root)[INFO]: Goin' Fast @ /home/le/crazystar/crazystar.sock http://...
+2026-01-12 22:20:22 - (sanic.root)[INFO]: app: app
+2026-01-12 22:20:22 - (sanic.root)[INFO]: mode: production, single worker
+2026-01-12 22:20:22 - (sanic.root)[INFO]: server: sanic, HTTP/1.1
+2026-01-12 22:20:22 - (sanic.root)[INFO]: python: 3.12.11
+2026-01-12 22:20:22 - (sanic.root)[INFO]: platform: Linux-6.1.0-42-cloud-amd64-x86_64-with-glibc2.36
+2026-01-12 22:20:22 - (sanic.root)[INFO]: auto-reload: enabled
+2026-01-12 22:20:22 - (sanic.root)[INFO]: packages: sanic-routing==23.12.0
+2026-01-12 22:20:36 - (sanic.root)[INFO]: App started
+2026-01-12 22:20:36 - (sanic.root)[INFO]: App started
+2026-01-12 22:22:43 - (sanic.root)[INFO]: App started
+2026-01-12 22:22:44 - (sanic.root)[INFO]: Sanic v25.3.0
+2026-01-12 22:22:44 - (sanic.root)[INFO]: Goin' Fast @ /home/le/crazystar/crazystar.sock http://...
+2026-01-12 22:22:44 - (sanic.root)[INFO]: app: app
+2026-01-12 22:22:44 - (sanic.root)[INFO]: mode: production, single worker
+2026-01-12 22:22:44 - (sanic.root)[INFO]: server: sanic, HTTP/1.1
+2026-01-12 22:22:44 - (sanic.root)[INFO]: python: 3.12.11
+2026-01-12 22:22:44 - (sanic.root)[INFO]: platform: Linux-6.1.0-42-cloud-amd64-x86_64-with-glibc2.36
+2026-01-12 22:22:44 - (sanic.root)[INFO]: auto-reload: enabled
+2026-01-12 22:22:44 - (sanic.root)[INFO]: packages: sanic-routing==23.12.0
+2026-01-12 22:22:59 - (sanic.root)[INFO]: App started
+2026-01-12 22:22:59 - (sanic.root)[INFO]: App started
+2026-01-12 22:33:27 - (sanic.root)[INFO]: App started
+2026-01-12 22:33:27 - (sanic.root)[INFO]: Sanic v25.3.0
+2026-01-12 22:33:27 - (sanic.root)[INFO]: Goin' Fast @ /home/le/crazystar/crazystar.sock http://...
+2026-01-12 22:33:27 - (sanic.root)[INFO]: app: app
+2026-01-12 22:33:27 - (sanic.root)[INFO]: mode: production, single worker
+2026-01-12 22:33:27 - (sanic.root)[INFO]: server: sanic, HTTP/1.1
+2026-01-12 22:33:27 - (sanic.root)[INFO]: python: 3.12.11
+2026-01-12 22:33:27 - (sanic.root)[INFO]: platform: Linux-6.1.0-42-cloud-amd64-x86_64-with-glibc2.36
+2026-01-12 22:33:27 - (sanic.root)[INFO]: auto-reload: enabled
+2026-01-12 22:33:27 - (sanic.root)[INFO]: packages: sanic-routing==23.12.0
+2026-01-12 22:33:41 - (sanic.root)[INFO]: App started
+2026-01-12 22:33:41 - (sanic.root)[INFO]: App started
+2026-01-12 22:37:23 - (sanic.root)[INFO]: App started
+2026-01-12 22:37:24 - (sanic.root)[INFO]: Sanic v25.3.0
+2026-01-12 22:37:24 - (sanic.root)[INFO]: Goin' Fast @ /home/le/crazystar/crazystar.sock http://...
+2026-01-12 22:37:24 - (sanic.root)[INFO]: app: app
+2026-01-12 22:37:24 - (sanic.root)[INFO]: mode: production, single worker
+2026-01-12 22:37:24 - (sanic.root)[INFO]: server: sanic, HTTP/1.1
+2026-01-12 22:37:24 - (sanic.root)[INFO]: python: 3.12.11
+2026-01-12 22:37:24 - (sanic.root)[INFO]: platform: Linux-6.1.0-42-cloud-amd64-x86_64-with-glibc2.36
+2026-01-12 22:37:24 - (sanic.root)[INFO]: auto-reload: enabled
+2026-01-12 22:37:24 - (sanic.root)[INFO]: packages: sanic-routing==23.12.0
+2026-01-12 22:37:37 - (sanic.root)[INFO]: App started
+2026-01-12 22:37:37 - (sanic.root)[INFO]: App started
+2026-01-12 22:40:55 - (sanic.root)[INFO]: App started
+2026-01-12 22:40:55 - (sanic.root)[INFO]: Sanic v25.3.0
+2026-01-12 22:40:55 - (sanic.root)[INFO]: Goin' Fast @ /home/le/crazystar/crazystar.sock http://...
+2026-01-12 22:40:55 - (sanic.root)[INFO]: app: app
+2026-01-12 22:40:55 - (sanic.root)[INFO]: mode: production, single worker
+2026-01-12 22:40:55 - (sanic.root)[INFO]: server: sanic, HTTP/1.1
+2026-01-12 22:40:55 - (sanic.root)[INFO]: python: 3.12.11
+2026-01-12 22:40:55 - (sanic.root)[INFO]: platform: Linux-6.1.0-42-cloud-amd64-x86_64-with-glibc2.36
+2026-01-12 22:40:55 - (sanic.root)[INFO]: auto-reload: enabled
+2026-01-12 22:40:55 - (sanic.root)[INFO]: packages: sanic-routing==23.12.0
+2026-01-12 22:41:09 - (sanic.root)[INFO]: App started
+2026-01-12 22:41:09 - (sanic.root)[INFO]: App started
+2026-01-12 22:46:24 - (sanic.root)[INFO]: App started
+2026-01-12 22:46:25 - (sanic.root)[INFO]: Sanic v25.3.0
+2026-01-12 22:46:25 - (sanic.root)[INFO]: Goin' Fast @ /home/le/crazystar/crazystar.sock http://...
+2026-01-12 22:46:25 - (sanic.root)[INFO]: app: app
+2026-01-12 22:46:25 - (sanic.root)[INFO]: mode: production, single worker
+2026-01-12 22:46:25 - (sanic.root)[INFO]: server: sanic, HTTP/1.1
+2026-01-12 22:46:25 - (sanic.root)[INFO]: python: 3.12.11
+2026-01-12 22:46:25 - (sanic.root)[INFO]: platform: Linux-6.1.0-42-cloud-amd64-x86_64-with-glibc2.36
+2026-01-12 22:46:25 - (sanic.root)[INFO]: auto-reload: enabled
+2026-01-12 22:46:25 - (sanic.root)[INFO]: packages: sanic-routing==23.12.0
+2026-01-12 22:46:40 - (sanic.root)[INFO]: App started
+2026-01-12 22:46:40 - (sanic.root)[INFO]: App started
+2026-01-12 22:50:52 - (sanic.root)[INFO]: App started
+2026-01-12 22:50:53 - (sanic.root)[INFO]: Sanic v25.3.0
+2026-01-12 22:50:53 - (sanic.root)[INFO]: Goin' Fast @ /home/le/crazystar/crazystar.sock http://...
+2026-01-12 22:50:53 - (sanic.root)[INFO]: app: app
+2026-01-12 22:50:53 - (sanic.root)[INFO]: mode: production, single worker
+2026-01-12 22:50:53 - (sanic.root)[INFO]: server: sanic, HTTP/1.1
+2026-01-12 22:50:53 - (sanic.root)[INFO]: python: 3.12.11
+2026-01-12 22:50:53 - (sanic.root)[INFO]: platform: Linux-6.1.0-42-cloud-amd64-x86_64-with-glibc2.36
+2026-01-12 22:50:53 - (sanic.root)[INFO]: auto-reload: enabled
+2026-01-12 22:50:53 - (sanic.root)[INFO]: packages: sanic-routing==23.12.0
+2026-01-12 22:51:09 - (sanic.root)[INFO]: App started
+2026-01-12 22:51:09 - (sanic.root)[INFO]: App started
+2026-01-12 22:56:20 - (sanic.root)[INFO]: App started
+2026-01-12 22:56:20 - (sanic.root)[INFO]: Sanic v25.3.0
+2026-01-12 22:56:20 - (sanic.root)[INFO]: Goin' Fast @ /home/le/crazystar/crazystar.sock http://...
+2026-01-12 22:56:20 - (sanic.root)[INFO]: app: app
+2026-01-12 22:56:20 - (sanic.root)[INFO]: mode: production, single worker
+2026-01-12 22:56:20 - (sanic.root)[INFO]: server: sanic, HTTP/1.1
+2026-01-12 22:56:20 - (sanic.root)[INFO]: python: 3.12.11
+2026-01-12 22:56:20 - (sanic.root)[INFO]: platform: Linux-6.1.0-42-cloud-amd64-x86_64-with-glibc2.36
+2026-01-12 22:56:20 - (sanic.root)[INFO]: auto-reload: enabled
+2026-01-12 22:56:20 - (sanic.root)[INFO]: packages: sanic-routing==23.12.0
+2026-01-12 22:56:34 - (sanic.root)[INFO]: App started
+2026-01-12 22:56:35 - (sanic.root)[INFO]: App started
+2026-01-12 22:59:15 - (sanic.root)[INFO]: Server Stopped
+2026-01-21 11:36:34 - (sanic.root)[INFO]: App started
+2026-01-21 11:36:34 - (sanic.root)[INFO]: Sanic v25.3.0
+2026-01-21 11:36:34 - (sanic.root)[INFO]: Goin' Fast @ /home/le/crazystar/crazystar.sock http://...
+2026-01-21 11:36:34 - (sanic.root)[INFO]: app: app
+2026-01-21 11:36:34 - (sanic.root)[INFO]: mode: production, single worker
+2026-01-21 11:36:34 - (sanic.root)[INFO]: server: sanic, HTTP/1.1
+2026-01-21 11:36:34 - (sanic.root)[INFO]: python: 3.12.11
+2026-01-21 11:36:34 - (sanic.root)[INFO]: platform: Linux-6.1.0-42-cloud-amd64-x86_64-with-glibc2.36
+2026-01-21 11:36:34 - (sanic.root)[INFO]: auto-reload: enabled
+2026-01-21 11:36:34 - (sanic.root)[INFO]: packages: sanic-routing==23.12.0
+2026-01-21 11:36:35 - (sanic.root)[INFO]: App started
+2026-01-21 11:36:35 - (sanic.root)[INFO]: App started
+2026-01-22 10:26:29 - (sanic.root)[INFO]: Room created: Stardom
+2026-01-27 13:24:59 - (sanic.root)[INFO]: Room created: Bloop
